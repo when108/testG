@@ -1,0 +1,7 @@
+type Test @db(name: "test") {
+  id: ID! @id
+  ids: String
+  name: String
+  location: String
+  currency: Int
+}
