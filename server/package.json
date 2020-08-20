@@ -2,7 +2,7 @@
   "name": "graphql-auth",
   "version": "1.0.0",
   "dependencies": {
-    "bcrypt": "3.0.5",
+    "bcrypt": "5.0.0",
     "graphql-shield": "^5.3.1",
     "graphql-yoga": "1.17.4",
     "https": "^1.0.0",
